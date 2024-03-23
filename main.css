@@ -6,6 +6,7 @@
 }
 
 header {
+  position: fixed;
   width: 100vw;
   height: 80px;
   background-color: blueviolet;
@@ -84,3 +85,6 @@ main {
 .current_info_c p {
   margin-left: -100px;
 }
+/* .order_info_box {
+  display: none;
+} */
