@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  list-style-type: none;
+}
+
+header {
+  width: 100vw;
+  height: 80px;
+  background-color: blueviolet;
+}
+main {
+  position: relative;
+}
+.main_baner_container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.baner_text {
+  width: 560px;
+}
+.current_info {
+  width: 807px;
+  height: 738px;
+  border-radius: 60px 0 0 140px;
+  background-color: brown;
+  position: absolute;
+  top: 0;
+  right: 0;
+}
