@@ -12,6 +12,8 @@ header {
 }
 main {
   position: relative;
+  overflow: hidden;
+  height: 120vh;
 }
 .main_baner_container {
   width: 80%;
