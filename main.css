@@ -47,6 +47,9 @@ main {
   z-index: 1;
   right: -180px;
 }
+.current_info_a:hover {
+  right: -80px;
+}
 .current_info_a p {
   margin-left: -64px;
 }
@@ -56,6 +59,10 @@ main {
   z-index: 2;
   right: -390px;
 }
+.current_info_b:hover {
+  right: -270px;
+}
+
 .current_info_b img {
   margin-left: 20px;
 }
@@ -66,6 +73,10 @@ main {
   background-color: rgb(27, 48, 182);
   z-index: 3;
   right: -600px;
+}
+
+.current_info_c:hover {
+  right: -480px;
 }
 .current_info_c img {
   margin-left: 25px;
